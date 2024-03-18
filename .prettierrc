@@ -1,0 +1,8 @@
+{
+    "singleQuote": true,
+    "trailingComma": "none",
+    "semi": false,
+    "tabWidth": 2,
+    "filepath": "/src",
+    "overrides": [{ "files": ".prettierrc", "options": { "parser": "json" } }]
+}
